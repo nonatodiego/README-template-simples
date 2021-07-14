@@ -1,7 +1,7 @@
 <h1>Título do Projeto</h1>
 
 <p align="center">
-<image src="https://www.androidfreeware.net/img2/logo-esport-maker-create-gaming-logo-maker-lite.jpg"/></br>
+<image src=""/></br>
 <label>Logo do projeto</label>
 </p>
 
